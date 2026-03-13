@@ -36,7 +36,6 @@ python token_counter.py
 
 You will be asked to enter:
 
-- Task name
 - Prompt text
 - Response text
 
